@@ -1,8 +1,13 @@
+import Landing from "./pages/landing";
+import styled from 'styled-components';
+
 
 
 function App() {
   return (
-    <h1>Jobify</h1>
+    <div>
+      <Landing />
+    </div>
   );
 }
 
