@@ -1,3 +1,4 @@
 import Logo from '../components/Logo'
-
-export { Logo }
+import FormRow from './FormRow';
+import Alert from '../components/Alert';
+export { Logo, FormRow, Alert }
